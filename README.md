@@ -1,2 +1,8 @@
-## Hello!
-<br> <p>My name is Henry, Online I go usually by either Freedom Guy or Waffles. I am currently a student at Arlington Tech, I dont have many projects so far on Github but I am learning more day by day and will have more soon!</p> <h1> Projects so far: </h1> <br> <p>My websites for DE Web design: <a href="https://freedomless-waffles.github.io/"> Main page </a> & <a href="https://freedomless-waffles.github.io/projects/recipes/index.html"> Recipes </a>The first one is my main site which is constantly changing and the second one is a Recipes website for a project! </p> <p> There is no link yet and the Repo is private for now but I am currently working on a website with a friend of mine and the owner of Strongdog, more on that coming soon!</p> <br> <h1>About me:</h1> <br> <p> I like some anime's and games including Re:Zero, Attack on Titan, Chainsaw Man, and many more those are just some of my favorite animes and I really enjoy playing the games Rainbow Six Siege and Stardew Valley. I also have read through most of Re:Zero and I am starting to read the series ORV, as well I have started to read more about Ennegrams which are actually very interesting and I would highly recommend learning about them. </p>
+#About me:
+<p>I am Freedom Guy. </p>
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/30fa6cd4-71ca-4fd8-a547-fe9aea7699fe" />
+<br> 
+<p>Currently learning HTML/CSS </p>
+<p> View my main homepage: </p> <a href="https://freedomless-waffles.github.io/"> Freedom-guy </a> 
+<p> Working on some projects, mainly for practice, more coming soon.</p>
+<p> Want to someday learn the Rust programing language and do some game development </p>
