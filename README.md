@@ -1,8 +1,7 @@
-#About me:
-<p>I am Freedom Guy. </p>
+<h1>About me:</h1>
+<h2>I am Freedom Guy</h2>
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/30fa6cd4-71ca-4fd8-a547-fe9aea7699fe" />
 <br> 
-<p>Currently learning HTML/CSS </p>
-<p> View my main homepage: </p> <a href="https://freedomless-waffles.github.io/"> Freedom-guy </a> 
-<p> Working on some projects, mainly for practice, more coming soon.</p>
-<p> Want to someday learn the Rust programing language and do some game development </p>
+<h2>I am currently learning HTML/CSS</h2>
+<h3>View my main homepage: <a href = "https://freedomless-waffles.github.io/"> Page-link </a> 
+<p> I am currently just doing some mini projects for class/for practice and will have some more bigger things coming soon, I also hope to one day learn the Rust programing language and do some game </p>
